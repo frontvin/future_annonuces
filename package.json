@@ -1,0 +1,24 @@
+{
+  "name": "scrolltoitem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack  --env.production",
+    "start": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.7.7",
+    "babel-loader": "^8.0.6",
+    "moment": "^2.24.0",
+    "moment-locales-webpack-plugin": "^1.1.2",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.7",
+    "unminified-webpack-plugin": "^2.0.0"
+  }
+}

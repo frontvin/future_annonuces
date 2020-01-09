@@ -1,0 +1,11 @@
+.fusion-timeline-date {
+    text-align: center;
+}
+
+.fusion-collapse-month {
+    border: 1px solid black;
+}
+
+.fusion-collapse-month p {
+    margin: 80% 0;
+}

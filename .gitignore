@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+#webstorm
+.idea
+
+# files
+node_modules/
+
+# build directory
+build/
+
+bundle.js
+bundle.js.map
